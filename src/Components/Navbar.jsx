@@ -37,7 +37,7 @@ const Navbar = () => {
         <div className="flex flex-row justify-between mx-4 my-4 duration-300 transition-all ease-in-out">
        <FaBars size={30} className="cursor-pointer"/> 
        <h1 className="text-black font-bold text-4xl cursive">PsyWellBeing</h1>
-       <h1></h1>
+       <h1 className="text-white">1</h1>
        </div> 
        }
         </div>
